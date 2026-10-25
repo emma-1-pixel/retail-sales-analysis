@@ -9,3 +9,5 @@ Checked 9,994 rows: no missing values in Sales, Profit or Postal Code, no duplic
 3. Discounts above 20% were unprofitable. Orders with 21-40% and 40%+ discounts lost $35.8K and $99.6K respectively, a combined loss of about $135K, while orders with no discount earned $321K profit.
 
 4.Sales grew 51% from 2014 ($484K) to 2017 ($733K), and profit grew 89% ($49.5K to $93.4K). Profit margin rose from 10.2% to 13.4% by 2016, then dipped to 12.7% in 2017.
+
+5.Sales peak every September to December (highest: November 2017, $118K) and are lowest in January and February. Only 2 of 48 months were unprofitable.
